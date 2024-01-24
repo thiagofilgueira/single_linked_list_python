@@ -1,6 +1,8 @@
 # Lista Encadeada Simples (Single Linked List)
 
 
+![single_linked_list](https://github.com/thiagofilgueira/single_linked_list_python/assets/7529961/383b1f92-bbb0-45db-bfc7-d7a17ea06f2c)
+
 # Linked List
 
 A classe LinkedList representa a lista encadeada.
