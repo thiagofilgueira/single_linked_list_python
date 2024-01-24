@@ -64,10 +64,3 @@ class LinkedList:
       pointer = pointer.next
       index += 1
     raise ValueError("Value {} not found".format(value))
-
-# from linkedlist import LinkedList
-# lista = LinkedList()
-# lista.size
-
-# lista.append(7)
-# lista.size
